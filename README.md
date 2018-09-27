@@ -1,3 +1,2 @@
-
-
-Student projects.
+ # Student Directory #
+ 
